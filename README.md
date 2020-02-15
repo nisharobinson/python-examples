@@ -1,7 +1,7 @@
 # Python Examples
 
 ## Description
-Various small projects written in Python, specifically version 3.
+Various small projects written in Python.
 
 ## ISS Location Now
 ![ISS Location Now ScreenShot](/screenshots/iss-location-now.png?raw=true)
