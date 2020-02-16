@@ -1,4 +1,4 @@
-# Python Examples
+# Python Projects
 
 ## Description
 Various small projects written in Python.
