@@ -1,6 +1,10 @@
-#!/usr/bin/python3
+#!/usr/bin/python
 
 import sys
+
+if sys.version_info < (3, 6):
+    sys.exit("Pythin 3.6 or later is required")
+
 import urllib.request
 import json
 import tkinter as tk
